@@ -15,3 +15,5 @@
 ### 4. Utilizamos la LCD 16x2 
 ![](https://github.com/raul7ops-sketch/Reporte-4-ultrasonico/blob/main/lcd%20reporte%204.png?raw=true)
 ### 5. Realizamos las siguientes conexiones:
+![](https://github.com/raul7ops-sketch/Reporte-4-ultrasonico/blob/main/Conexion%20reporte%204.png?raw=true)
+### 6. Copiamos el siguiente codigo a nuestro simulador
