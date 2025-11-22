@@ -79,3 +79,4 @@ void loop()
 ## Conclusion
 En la practica se realizo la programacion, conexion y revision de datos mediante una ```LCD``` el cual nos arrojaba el valor dado por el ```sensor ultrasonico``` que nos arroajaba en unidades de centimetros la distancia que dectecaba que para la practica fueron 60 cm. Ademas de arreglar la ```LCD``` para arrojar otras oraciones intermitentes.
 
+
