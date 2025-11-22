@@ -78,5 +78,8 @@ void loop()
 ### 7. Corremos la simulacion para analizar los resultados
 ## Conclusion
 En la practica se realizo la programacion, conexion y revision de datos mediante una ```LCD``` el cual nos arrojaba el valor dado por el ```sensor ultrasonico``` que nos arroajaba en unidades de centimetros la distancia que dectecaba que para la practica fueron 60 cm. Ademas de arreglar la ```LCD``` para arrojar otras oraciones intermitentes.
+![](https://github.com/raul7ops-sketch/Reporte-4-ultrasonico/blob/main/Conclision%20reporte%204.png?raw=true)
+
+##Creditos
 
 
