@@ -81,5 +81,5 @@ En la practica se realizo la programacion, conexion y revision de datos mediante
 ![](https://github.com/raul7ops-sketch/Reporte-4-ultrasonico/blob/main/Conclision%20reporte%204.png?raw=true)
 
 ##Creditos
-
+Este reporte fue realizado por Raul Aguilar Lagunas. https://github.com/raul7ops-sketch
 
